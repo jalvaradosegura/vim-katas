@@ -12,11 +12,11 @@ to this:
 
 ```javascript
 
-var foo = 1;
+var foo = 1
 
-var bar = 'a';
+var bar = 'a'
 
-var foobar = foo + bar;
+var foobar = foo + bar
 ```
 
 Place yourself anywhere at the first line.
