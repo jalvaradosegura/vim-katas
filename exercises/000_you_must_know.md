@@ -8,4 +8,6 @@
 7. How to redo things `ctrl` + `r`
 8. How to delete a character `x`
 
-This [game](https://vim-adventures.com/) may help you with the basics.
+Worth knowing:
+You can run `vimtutor` in a terminal to access an interactive way of learning vim by vim.
+If you are a more visual person, try this [game](https://vim-adventures.com/), it may help you with the basics.
